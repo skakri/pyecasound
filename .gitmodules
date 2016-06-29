@@ -1,0 +1,3 @@
+[submodule "ecasound"]
+	path = ecasound
+	url = git@github.com:skakri/ecasound.git
